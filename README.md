@@ -1,3 +1,7 @@
-Projeto-Pokedex {
-  font-family: "Times New Roman", Times, serif;
-}
+
+<body style="background-color:powderblue;">
+
+<h1>Projeto-Pokedex</h1>
+
+
+</body>
